@@ -27,7 +27,7 @@ body  {
     align-items: center;
 }
 
-#language .languages {
+#language img {
     height: 15%;
     width: auto;
     cursor: pointer;
@@ -35,7 +35,7 @@ body  {
     transition: all 0.3s ease;
 }
 
-#language .languages:hover {
+#language img:hover {
     transform: scale(1.1);
     box-shadow: 25px 25px 0 rgb(172, 61, 61);
 }
